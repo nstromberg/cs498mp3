@@ -1,4 +1,4 @@
 1. This is called Duplicated Code. We fix it by extracting the offending code into a standalone function.
 2. This is Feature Envy. We must move the function to the Jenkins class.
 3. This is a form of Duplicated Code, which can be rewritten as a loop.
-
+4. I eliminated duplicate code in 'jenkins-core/src/test/java/hudson/scheduler/CronTabTest.java' by extracting the method which was shared
