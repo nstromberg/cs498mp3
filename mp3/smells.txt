@@ -1,2 +1,3 @@
-1. This is called Duplicated Code.
-2. 
+1. This is called Duplicated Code. We fix it by extracting the offending code into a standalone function.
+2. This is Feature Envy. We must move the function to the Jenkins class.
+3. 
