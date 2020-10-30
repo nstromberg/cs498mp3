@@ -1,0 +1,2 @@
+1. This is called Duplicated Code.
+2. 
